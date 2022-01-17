@@ -1,0 +1,11 @@
+body {
+    background: white url("images/bg.gif") no-repeat;
+    font-size: 2em;
+}
+
+li a {
+    color: green;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 0.4em;
+    line-height: 2em;
+}
